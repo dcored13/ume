@@ -1,0 +1,1688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\Dan\Documents\keyboard\ume\ume\ume.sch</source>
+    <date>3/08/2021 9:51:15 PM</date>
+    <tool>Eeschema (5.1.7)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>ume.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="SW64">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610A08C4</tstamp>
+    </comp>
+    <comp ref="SW63">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610A053E</tstamp>
+    </comp>
+    <comp ref="SW62">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610A022B</tstamp>
+    </comp>
+    <comp ref="SW61">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6109FE73</tstamp>
+    </comp>
+    <comp ref="SW60">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6109F3C2</tstamp>
+    </comp>
+    <comp ref="SW31">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6109F032</tstamp>
+    </comp>
+    <comp ref="SW30">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6109E99B</tstamp>
+    </comp>
+    <comp ref="SW29">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6109C28E</tstamp>
+    </comp>
+    <comp ref="SW28">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6109BCD3</tstamp>
+    </comp>
+    <comp ref="SW27">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6109B7D6</tstamp>
+    </comp>
+    <comp ref="SW26">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6109AC02</tstamp>
+    </comp>
+    <comp ref="SW25">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6109A3CE</tstamp>
+    </comp>
+    <comp ref="SW24">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6109A07F</tstamp>
+    </comp>
+    <comp ref="SW21">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61099B7D</tstamp>
+    </comp>
+    <comp ref="SW23">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61099833</tstamp>
+    </comp>
+    <comp ref="SW22">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61098FB2</tstamp>
+    </comp>
+    <comp ref="SW20">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61098CCC</tstamp>
+    </comp>
+    <comp ref="SW17">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61098A13</tstamp>
+    </comp>
+    <comp ref="SW16">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61098638</tstamp>
+    </comp>
+    <comp ref="SW19">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6109832A</tstamp>
+    </comp>
+    <comp ref="SW18">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61097A18</tstamp>
+    </comp>
+    <comp ref="SW13">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61097633</tstamp>
+    </comp>
+    <comp ref="SW11">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610972DF</tstamp>
+    </comp>
+    <comp ref="SW12">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61096F95</tstamp>
+    </comp>
+    <comp ref="SW15">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61096B1F</tstamp>
+    </comp>
+    <comp ref="SW14">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6109639D</tstamp>
+    </comp>
+    <comp ref="SW7">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61096017</tstamp>
+    </comp>
+    <comp ref="SW9">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61094D48</tstamp>
+    </comp>
+    <comp ref="SW8">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6109493B</tstamp>
+    </comp>
+    <comp ref="SW6">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610945C9</tstamp>
+    </comp>
+    <comp ref="SW10">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61093B9A</tstamp>
+    </comp>
+    <comp ref="SW5">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61093864</tstamp>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61093344</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61092ED3</tstamp>
+    </comp>
+    <comp ref="SW4">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61092A53</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61091DAF</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61102ECB</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6110FF9A</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61110498</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>611109FA</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61110E12</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61111356</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61111D22</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6111224D</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61112700</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61112B9F</tstamp>
+    </comp>
+    <comp ref="D14">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6111308E</tstamp>
+    </comp>
+    <comp ref="D15">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61113CFD</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>611142E1</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>611149E2</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6111506B</tstamp>
+    </comp>
+    <comp ref="D16">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61115546</tstamp>
+    </comp>
+    <comp ref="D18">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61115F67</tstamp>
+    </comp>
+    <comp ref="D19">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>611166C2</tstamp>
+    </comp>
+    <comp ref="D20">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61116DEB</tstamp>
+    </comp>
+    <comp ref="D17">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>611175B4</tstamp>
+    </comp>
+    <comp ref="D21">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61117B1B</tstamp>
+    </comp>
+    <comp ref="D22">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61118712</tstamp>
+    </comp>
+    <comp ref="D23">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61118CFB</tstamp>
+    </comp>
+    <comp ref="D24">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>611192B7</tstamp>
+    </comp>
+    <comp ref="D25">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>611198FF</tstamp>
+    </comp>
+    <comp ref="D26">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61119F38</tstamp>
+    </comp>
+    <comp ref="D27">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6111A805</tstamp>
+    </comp>
+    <comp ref="D28">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6111ADE9</tstamp>
+    </comp>
+    <comp ref="D29">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6111B440</tstamp>
+    </comp>
+    <comp ref="D30">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6111B9A7</tstamp>
+    </comp>
+    <comp ref="D31">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6111C355</tstamp>
+    </comp>
+    <comp ref="D60">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61128E31</tstamp>
+    </comp>
+    <comp ref="D62">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>611297A3</tstamp>
+    </comp>
+    <comp ref="D64">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61129EDB</tstamp>
+    </comp>
+    <comp ref="D61">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6112A4A1</tstamp>
+    </comp>
+    <comp ref="D63">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6112AA85</tstamp>
+    </comp>
+    <comp ref="D59">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6112876C</tstamp>
+    </comp>
+    <comp ref="D58">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>611282D7</tstamp>
+    </comp>
+    <comp ref="D57">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61127BA4</tstamp>
+    </comp>
+    <comp ref="D55">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>611275E8</tstamp>
+    </comp>
+    <comp ref="D56">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61126B8B</tstamp>
+    </comp>
+    <comp ref="D54">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61126566</tstamp>
+    </comp>
+    <comp ref="D53">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61125F96</tstamp>
+    </comp>
+    <comp ref="D52">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61125926</tstamp>
+    </comp>
+    <comp ref="D51">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>611253C9</tstamp>
+    </comp>
+    <comp ref="D50">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61124903</tstamp>
+    </comp>
+    <comp ref="D48">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>611241DA</tstamp>
+    </comp>
+    <comp ref="D49">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61123B38</tstamp>
+    </comp>
+    <comp ref="D47">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61123662</tstamp>
+    </comp>
+    <comp ref="D46">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61122CC8</tstamp>
+    </comp>
+    <comp ref="D42">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6112258B</tstamp>
+    </comp>
+    <comp ref="D45">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61121F07</tstamp>
+    </comp>
+    <comp ref="D44">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>611218A6</tstamp>
+    </comp>
+    <comp ref="D43">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61120CDC</tstamp>
+    </comp>
+    <comp ref="D41">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61120707</tstamp>
+    </comp>
+    <comp ref="D40">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>611201BE</tstamp>
+    </comp>
+    <comp ref="D39">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6111FB62</tstamp>
+    </comp>
+    <comp ref="D38">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6111F538</tstamp>
+    </comp>
+    <comp ref="D37">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6111EB08</tstamp>
+    </comp>
+    <comp ref="D34">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6111E637</tstamp>
+    </comp>
+    <comp ref="D33">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6111DFDB</tstamp>
+    </comp>
+    <comp ref="D36">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6111DA7E</tstamp>
+    </comp>
+    <comp ref="D35">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6111D60C</tstamp>
+    </comp>
+    <comp ref="D32">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6111C8D0</tstamp>
+    </comp>
+    <comp ref="SW55">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610A29E5</tstamp>
+    </comp>
+    <comp ref="SW58">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610A3149</tstamp>
+    </comp>
+    <comp ref="SW59">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610A34D4</tstamp>
+    </comp>
+    <comp ref="SW56">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610A3977</tstamp>
+    </comp>
+    <comp ref="SW57">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610A41A8</tstamp>
+    </comp>
+    <comp ref="SW50">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610A4524</tstamp>
+    </comp>
+    <comp ref="SW52">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610A4E31</tstamp>
+    </comp>
+    <comp ref="SW54">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610A51B7</tstamp>
+    </comp>
+    <comp ref="SW53">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610A5551</tstamp>
+    </comp>
+    <comp ref="SW51">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610A5832</tstamp>
+    </comp>
+    <comp ref="SW46">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610A5BF4</tstamp>
+    </comp>
+    <comp ref="SW47">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610A62F4</tstamp>
+    </comp>
+    <comp ref="SW48">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610A66A7</tstamp>
+    </comp>
+    <comp ref="SW49">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610A69CE</tstamp>
+    </comp>
+    <comp ref="SW42">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610A740E</tstamp>
+    </comp>
+    <comp ref="SW43">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610A7A55</tstamp>
+    </comp>
+    <comp ref="SW44">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610A7EA8</tstamp>
+    </comp>
+    <comp ref="SW45">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610A81A2</tstamp>
+    </comp>
+    <comp ref="SW37">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610A99C0</tstamp>
+    </comp>
+    <comp ref="SW38">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610AC12A</tstamp>
+    </comp>
+    <comp ref="SW40">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610AC384</tstamp>
+    </comp>
+    <comp ref="SW39">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610AC6EC</tstamp>
+    </comp>
+    <comp ref="SW41">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610ACA59</tstamp>
+    </comp>
+    <comp ref="SW33">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610AD0DC</tstamp>
+    </comp>
+    <comp ref="SW32">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610AD3C2</tstamp>
+    </comp>
+    <comp ref="SW34">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610AE11B</tstamp>
+    </comp>
+    <comp ref="SW35">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610AE442</tstamp>
+    </comp>
+    <comp ref="SW36">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610B07D2</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>ProMicro</value>
+      <footprint>promicro:ProMicro</footprint>
+      <libsource lib="promicro" part="ProMicro" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>614C8D91</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>ProMicro</value>
+      <footprint>promicro:ProMicro</footprint>
+      <libsource lib="promicro" part="ProMicro" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>614CB77F</tstamp>
+    </comp>
+    <comp ref="SW65">
+      <value>SW_SPST</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>617D1D57</tstamp>
+    </comp>
+    <comp ref="D65">
+      <value>D_Small</value>
+      <footprint>Diode_THT:D_T-1_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>617D2551</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="D_Small">
+      <description>Diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_SPST">
+      <description>Single Pole Single Throw (SPST) switch</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_SPST</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="promicro" part="ProMicro">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ProMicro</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TX" type="BiDi"/>
+        <pin num="2" name="RX" type="BiDi"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="SCL" type="BiDi"/>
+        <pin num="6" name="SDA" type="BiDi"/>
+        <pin num="7" name="D4" type="BiDi"/>
+        <pin num="8" name="C6" type="BiDi"/>
+        <pin num="9" name="D7" type="BiDi"/>
+        <pin num="10" name="E6" type="BiDi"/>
+        <pin num="11" name="B4" type="BiDi"/>
+        <pin num="12" name="B5" type="BiDi"/>
+        <pin num="13" name="B6" type="BiDi"/>
+        <pin num="14" name="B2" type="BiDi"/>
+        <pin num="15" name="B3" type="BiDi"/>
+        <pin num="16" name="B1" type="BiDi"/>
+        <pin num="17" name="F7" type="BiDi"/>
+        <pin num="18" name="F6" type="BiDi"/>
+        <pin num="19" name="F5" type="BiDi"/>
+        <pin num="20" name="F4" type="BiDi"/>
+        <pin num="21" name="VCC" type="power_in"/>
+        <pin num="22" name="RST" type="input"/>
+        <pin num="23" name="GND" type="power_in"/>
+        <pin num="24" name="RAW" type="power_out"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Switch.lib</uri>
+    </library>
+    <library logical="promicro">
+      <uri>C:/Users/Dan/Documents/keyboard/KiCadLib/ProMicroKiCad-master/promicro_library/promicro.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(D10-Pad1)">
+      <node ref="U1" pin="8"/>
+      <node ref="D10" pin="1"/>
+      <node ref="D5" pin="1"/>
+      <node ref="D20" pin="1"/>
+      <node ref="D15" pin="1"/>
+      <node ref="D25" pin="1"/>
+    </net>
+    <net code="2" name="Net-(SW50-Pad1)">
+      <node ref="SW51" pin="1"/>
+      <node ref="SW53" pin="1"/>
+      <node ref="SW54" pin="1"/>
+      <node ref="U2" pin="17"/>
+      <node ref="SW52" pin="1"/>
+      <node ref="SW50" pin="1"/>
+    </net>
+    <net code="3" name="Net-(SW55-Pad1)">
+      <node ref="U2" pin="18"/>
+      <node ref="SW57" pin="1"/>
+      <node ref="SW56" pin="1"/>
+      <node ref="SW59" pin="1"/>
+      <node ref="SW58" pin="1"/>
+      <node ref="SW55" pin="1"/>
+    </net>
+    <net code="4" name="Net-(SW60-Pad1)">
+      <node ref="SW64" pin="1"/>
+      <node ref="SW60" pin="1"/>
+      <node ref="SW61" pin="1"/>
+      <node ref="SW62" pin="1"/>
+      <node ref="SW63" pin="1"/>
+      <node ref="U2" pin="19"/>
+    </net>
+    <net code="5" name="Net-(SW37-Pad1)">
+      <node ref="SW38" pin="1"/>
+      <node ref="SW37" pin="1"/>
+      <node ref="SW41" pin="1"/>
+      <node ref="SW39" pin="1"/>
+      <node ref="SW40" pin="1"/>
+      <node ref="U2" pin="14"/>
+    </net>
+    <net code="6" name="Net-(SW32-Pad1)">
+      <node ref="U2" pin="13"/>
+      <node ref="SW34" pin="1"/>
+      <node ref="SW33" pin="1"/>
+      <node ref="SW32" pin="1"/>
+      <node ref="SW35" pin="1"/>
+      <node ref="SW36" pin="1"/>
+    </net>
+    <net code="7" name="Net-(SW46-Pad1)">
+      <node ref="U2" pin="16"/>
+      <node ref="SW49" pin="1"/>
+      <node ref="SW48" pin="1"/>
+      <node ref="SW47" pin="1"/>
+      <node ref="SW46" pin="1"/>
+    </net>
+    <net code="8" name="Net-(SW30-Pad1)">
+      <node ref="SW30" pin="1"/>
+      <node ref="SW31" pin="1"/>
+      <node ref="U1" pin="19"/>
+    </net>
+    <net code="9" name="Net-(D65-Pad2)">
+      <node ref="D65" pin="2"/>
+      <node ref="SW65" pin="2"/>
+    </net>
+    <net code="10" name="Net-(D36-Pad1)">
+      <node ref="D64" pin="1"/>
+      <node ref="D59" pin="1"/>
+      <node ref="D54" pin="1"/>
+      <node ref="U2" pin="8"/>
+      <node ref="D65" pin="1"/>
+      <node ref="D36" pin="1"/>
+      <node ref="D41" pin="1"/>
+    </net>
+    <net code="11" name="Net-(U2-Pad6)">
+      <node ref="U2" pin="6"/>
+    </net>
+    <net code="12" name="Net-(U2-Pad1)">
+      <node ref="U2" pin="1"/>
+    </net>
+    <net code="13" name="Net-(U2-Pad2)">
+      <node ref="U2" pin="2"/>
+    </net>
+    <net code="14" name="Net-(U2-Pad3)">
+      <node ref="U2" pin="3"/>
+    </net>
+    <net code="15" name="Net-(U2-Pad4)">
+      <node ref="U2" pin="4"/>
+    </net>
+    <net code="16" name="Net-(U2-Pad5)">
+      <node ref="U2" pin="5"/>
+    </net>
+    <net code="17" name="Net-(U1-Pad24)">
+      <node ref="U1" pin="24"/>
+    </net>
+    <net code="18" name="Net-(U2-Pad7)">
+      <node ref="U2" pin="7"/>
+    </net>
+    <net code="19" name="Net-(D35-Pad1)">
+      <node ref="D49" pin="1"/>
+      <node ref="U2" pin="9"/>
+      <node ref="D53" pin="1"/>
+      <node ref="D63" pin="1"/>
+      <node ref="D40" pin="1"/>
+      <node ref="D35" pin="1"/>
+      <node ref="D58" pin="1"/>
+      <node ref="D42" pin="1"/>
+    </net>
+    <net code="20" name="Net-(D34-Pad1)">
+      <node ref="D34" pin="1"/>
+      <node ref="D39" pin="1"/>
+      <node ref="U2" pin="10"/>
+      <node ref="D45" pin="1"/>
+      <node ref="D62" pin="1"/>
+      <node ref="D48" pin="1"/>
+      <node ref="D52" pin="1"/>
+      <node ref="D57" pin="1"/>
+    </net>
+    <net code="21" name="Net-(U2-Pad20)">
+      <node ref="U2" pin="20"/>
+    </net>
+    <net code="22" name="Net-(D33-Pad1)">
+      <node ref="D33" pin="1"/>
+      <node ref="D44" pin="1"/>
+      <node ref="U2" pin="11"/>
+      <node ref="D38" pin="1"/>
+      <node ref="D47" pin="1"/>
+      <node ref="D56" pin="1"/>
+      <node ref="D51" pin="1"/>
+      <node ref="D61" pin="1"/>
+    </net>
+    <net code="23" name="Net-(U2-Pad21)">
+      <node ref="U2" pin="21"/>
+    </net>
+    <net code="24" name="Net-(D32-Pad1)">
+      <node ref="D32" pin="1"/>
+      <node ref="D37" pin="1"/>
+      <node ref="D43" pin="1"/>
+      <node ref="D55" pin="1"/>
+      <node ref="U2" pin="12"/>
+      <node ref="D50" pin="1"/>
+      <node ref="D46" pin="1"/>
+      <node ref="D60" pin="1"/>
+    </net>
+    <net code="25" name="Net-(U2-Pad22)">
+      <node ref="U2" pin="22"/>
+    </net>
+    <net code="26" name="Net-(U1-Pad1)">
+      <node ref="U1" pin="1"/>
+    </net>
+    <net code="27" name="Net-(U1-Pad2)">
+      <node ref="U1" pin="2"/>
+    </net>
+    <net code="28" name="Net-(U1-Pad3)">
+      <node ref="U1" pin="3"/>
+    </net>
+    <net code="29" name="Net-(U1-Pad4)">
+      <node ref="U1" pin="4"/>
+    </net>
+    <net code="30" name="Net-(U1-Pad5)">
+      <node ref="U1" pin="5"/>
+    </net>
+    <net code="31" name="Net-(U1-Pad6)">
+      <node ref="U1" pin="6"/>
+    </net>
+    <net code="32" name="Net-(U1-Pad7)">
+      <node ref="U1" pin="7"/>
+    </net>
+    <net code="33" name="Net-(U2-Pad23)">
+      <node ref="U2" pin="23"/>
+    </net>
+    <net code="34" name="Net-(D14-Pad1)">
+      <node ref="D14" pin="1"/>
+      <node ref="D24" pin="1"/>
+      <node ref="D19" pin="1"/>
+      <node ref="D29" pin="1"/>
+      <node ref="U1" pin="9"/>
+      <node ref="D9" pin="1"/>
+      <node ref="D4" pin="1"/>
+    </net>
+    <net code="35" name="Net-(D13-Pad1)">
+      <node ref="D23" pin="1"/>
+      <node ref="D8" pin="1"/>
+      <node ref="D28" pin="1"/>
+      <node ref="D3" pin="1"/>
+      <node ref="D18" pin="1"/>
+      <node ref="U1" pin="10"/>
+      <node ref="D13" pin="1"/>
+    </net>
+    <net code="36" name="Net-(U1-Pad20)">
+      <node ref="U1" pin="20"/>
+    </net>
+    <net code="37" name="Net-(D12-Pad1)">
+      <node ref="D31" pin="1"/>
+      <node ref="D2" pin="1"/>
+      <node ref="U1" pin="11"/>
+      <node ref="D27" pin="1"/>
+      <node ref="D7" pin="1"/>
+      <node ref="D12" pin="1"/>
+      <node ref="D22" pin="1"/>
+      <node ref="D17" pin="1"/>
+    </net>
+    <net code="38" name="Net-(U1-Pad21)">
+      <node ref="U1" pin="21"/>
+    </net>
+    <net code="39" name="Net-(D1-Pad1)">
+      <node ref="U1" pin="12"/>
+      <node ref="D1" pin="1"/>
+      <node ref="D6" pin="1"/>
+      <node ref="D26" pin="1"/>
+      <node ref="D16" pin="1"/>
+      <node ref="D11" pin="1"/>
+      <node ref="D30" pin="1"/>
+      <node ref="D21" pin="1"/>
+    </net>
+    <net code="40" name="Net-(U1-Pad22)">
+      <node ref="U1" pin="22"/>
+    </net>
+    <net code="41" name="Net-(U1-Pad23)">
+      <node ref="U1" pin="23"/>
+    </net>
+    <net code="42" name="Net-(U2-Pad24)">
+      <node ref="U2" pin="24"/>
+    </net>
+    <net code="43" name="Net-(D17-Pad2)">
+      <node ref="D17" pin="2"/>
+      <node ref="SW17" pin="2"/>
+    </net>
+    <net code="44" name="Net-(D21-Pad2)">
+      <node ref="D21" pin="2"/>
+      <node ref="SW21" pin="2"/>
+    </net>
+    <net code="45" name="Net-(D22-Pad2)">
+      <node ref="D22" pin="2"/>
+      <node ref="SW22" pin="2"/>
+    </net>
+    <net code="46" name="Net-(D23-Pad2)">
+      <node ref="D23" pin="2"/>
+      <node ref="SW23" pin="2"/>
+    </net>
+    <net code="47" name="Net-(D24-Pad2)">
+      <node ref="D24" pin="2"/>
+      <node ref="SW24" pin="2"/>
+    </net>
+    <net code="48" name="Net-(D20-Pad2)">
+      <node ref="D20" pin="2"/>
+      <node ref="SW20" pin="2"/>
+    </net>
+    <net code="49" name="Net-(D25-Pad2)">
+      <node ref="D25" pin="2"/>
+      <node ref="SW25" pin="2"/>
+    </net>
+    <net code="50" name="Net-(D26-Pad2)">
+      <node ref="SW26" pin="2"/>
+      <node ref="D26" pin="2"/>
+    </net>
+    <net code="51" name="Net-(D27-Pad2)">
+      <node ref="D27" pin="2"/>
+      <node ref="SW27" pin="2"/>
+    </net>
+    <net code="52" name="Net-(D28-Pad2)">
+      <node ref="D28" pin="2"/>
+      <node ref="SW28" pin="2"/>
+    </net>
+    <net code="53" name="Net-(D29-Pad2)">
+      <node ref="D29" pin="2"/>
+      <node ref="SW29" pin="2"/>
+    </net>
+    <net code="54" name="Net-(D9-Pad2)">
+      <node ref="SW9" pin="2"/>
+      <node ref="D9" pin="2"/>
+    </net>
+    <net code="55" name="Net-(D7-Pad2)">
+      <node ref="SW7" pin="2"/>
+      <node ref="D7" pin="2"/>
+    </net>
+    <net code="56" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2"/>
+      <node ref="SW14" pin="2"/>
+    </net>
+    <net code="57" name="Net-(D15-Pad2)">
+      <node ref="D15" pin="2"/>
+      <node ref="SW15" pin="2"/>
+    </net>
+    <net code="58" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2"/>
+      <node ref="SW13" pin="2"/>
+    </net>
+    <net code="59" name="Net-(D30-Pad2)">
+      <node ref="D30" pin="2"/>
+      <node ref="SW30" pin="2"/>
+    </net>
+    <net code="60" name="Net-(D11-Pad2)">
+      <node ref="SW11" pin="2"/>
+      <node ref="D11" pin="2"/>
+    </net>
+    <net code="61" name="Net-(D12-Pad2)">
+      <node ref="SW12" pin="2"/>
+      <node ref="D12" pin="2"/>
+    </net>
+    <net code="62" name="Net-(D16-Pad2)">
+      <node ref="SW16" pin="2"/>
+      <node ref="D16" pin="2"/>
+    </net>
+    <net code="63" name="Net-(D18-Pad2)">
+      <node ref="D18" pin="2"/>
+      <node ref="SW18" pin="2"/>
+    </net>
+    <net code="64" name="Net-(D19-Pad2)">
+      <node ref="D19" pin="2"/>
+      <node ref="SW19" pin="2"/>
+    </net>
+    <net code="65" name="Net-(D50-Pad2)">
+      <node ref="D50" pin="2"/>
+      <node ref="SW50" pin="2"/>
+    </net>
+    <net code="66" name="Net-(D56-Pad2)">
+      <node ref="SW56" pin="2"/>
+      <node ref="D56" pin="2"/>
+    </net>
+    <net code="67" name="Net-(D54-Pad2)">
+      <node ref="D54" pin="2"/>
+      <node ref="SW54" pin="2"/>
+    </net>
+    <net code="68" name="Net-(D53-Pad2)">
+      <node ref="SW53" pin="2"/>
+      <node ref="D53" pin="2"/>
+    </net>
+    <net code="69" name="Net-(D52-Pad2)">
+      <node ref="D52" pin="2"/>
+      <node ref="SW52" pin="2"/>
+    </net>
+    <net code="70" name="Net-(D51-Pad2)">
+      <node ref="D51" pin="2"/>
+      <node ref="SW51" pin="2"/>
+    </net>
+    <net code="71" name="Net-(D48-Pad2)">
+      <node ref="D48" pin="2"/>
+      <node ref="SW48" pin="2"/>
+    </net>
+    <net code="72" name="Net-(D49-Pad2)">
+      <node ref="SW49" pin="2"/>
+      <node ref="D49" pin="2"/>
+    </net>
+    <net code="73" name="Net-(D47-Pad2)">
+      <node ref="SW47" pin="2"/>
+      <node ref="D47" pin="2"/>
+    </net>
+    <net code="74" name="Net-(D46-Pad2)">
+      <node ref="SW46" pin="2"/>
+      <node ref="D46" pin="2"/>
+    </net>
+    <net code="75" name="Net-(D42-Pad2)">
+      <node ref="SW45" pin="2"/>
+      <node ref="D42" pin="2"/>
+    </net>
+    <net code="76" name="Net-(D31-Pad2)">
+      <node ref="SW31" pin="2"/>
+      <node ref="D31" pin="2"/>
+    </net>
+    <net code="77" name="Net-(D60-Pad2)">
+      <node ref="D60" pin="2"/>
+      <node ref="SW60" pin="2"/>
+    </net>
+    <net code="78" name="Net-(D62-Pad2)">
+      <node ref="D62" pin="2"/>
+      <node ref="SW62" pin="2"/>
+    </net>
+    <net code="79" name="Net-(D64-Pad2)">
+      <node ref="SW64" pin="2"/>
+      <node ref="D64" pin="2"/>
+    </net>
+    <net code="80" name="Net-(D61-Pad2)">
+      <node ref="SW61" pin="2"/>
+      <node ref="D61" pin="2"/>
+    </net>
+    <net code="81" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2"/>
+      <node ref="SW8" pin="2"/>
+    </net>
+    <net code="82" name="Net-(D63-Pad2)">
+      <node ref="SW63" pin="2"/>
+      <node ref="D63" pin="2"/>
+    </net>
+    <net code="83" name="Net-(D59-Pad2)">
+      <node ref="D59" pin="2"/>
+      <node ref="SW59" pin="2"/>
+    </net>
+    <net code="84" name="Net-(D58-Pad2)">
+      <node ref="SW58" pin="2"/>
+      <node ref="D58" pin="2"/>
+    </net>
+    <net code="85" name="Net-(D57-Pad2)">
+      <node ref="SW57" pin="2"/>
+      <node ref="D57" pin="2"/>
+    </net>
+    <net code="86" name="Net-(D55-Pad2)">
+      <node ref="SW55" pin="2"/>
+      <node ref="D55" pin="2"/>
+    </net>
+    <net code="87" name="Net-(SW21-Pad1)">
+      <node ref="U1" pin="17"/>
+      <node ref="SW22" pin="1"/>
+      <node ref="SW23" pin="1"/>
+      <node ref="SW21" pin="1"/>
+      <node ref="SW24" pin="1"/>
+      <node ref="SW25" pin="1"/>
+    </net>
+    <net code="88" name="Net-(SW16-Pad1)">
+      <node ref="SW19" pin="1"/>
+      <node ref="SW20" pin="1"/>
+      <node ref="SW17" pin="1"/>
+      <node ref="SW16" pin="1"/>
+      <node ref="SW18" pin="1"/>
+      <node ref="U1" pin="16"/>
+    </net>
+    <net code="89" name="Net-(SW11-Pad1)">
+      <node ref="SW12" pin="1"/>
+      <node ref="SW15" pin="1"/>
+      <node ref="SW14" pin="1"/>
+      <node ref="U1" pin="15"/>
+      <node ref="SW11" pin="1"/>
+      <node ref="SW13" pin="1"/>
+    </net>
+    <net code="90" name="Net-(SW26-Pad1)">
+      <node ref="SW29" pin="1"/>
+      <node ref="SW26" pin="1"/>
+      <node ref="U1" pin="18"/>
+      <node ref="SW28" pin="1"/>
+      <node ref="SW27" pin="1"/>
+    </net>
+    <net code="91" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2"/>
+      <node ref="SW2" pin="2"/>
+    </net>
+    <net code="92" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2"/>
+      <node ref="SW4" pin="2"/>
+    </net>
+    <net code="93" name="Net-(SW1-Pad1)">
+      <node ref="SW3" pin="1"/>
+      <node ref="SW1" pin="1"/>
+      <node ref="SW5" pin="1"/>
+      <node ref="SW4" pin="1"/>
+      <node ref="SW2" pin="1"/>
+      <node ref="U1" pin="13"/>
+    </net>
+    <net code="94" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2"/>
+      <node ref="SW1" pin="2"/>
+    </net>
+    <net code="95" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2"/>
+      <node ref="SW3" pin="2"/>
+    </net>
+    <net code="96" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2"/>
+      <node ref="SW5" pin="2"/>
+    </net>
+    <net code="97" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2"/>
+      <node ref="SW6" pin="2"/>
+    </net>
+    <net code="98" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2"/>
+      <node ref="SW10" pin="2"/>
+    </net>
+    <net code="99" name="Net-(SW10-Pad1)">
+      <node ref="SW7" pin="1"/>
+      <node ref="SW10" pin="1"/>
+      <node ref="U1" pin="14"/>
+      <node ref="SW9" pin="1"/>
+      <node ref="SW6" pin="1"/>
+      <node ref="SW8" pin="1"/>
+    </net>
+    <net code="100" name="Net-(SW42-Pad1)">
+      <node ref="SW65" pin="1"/>
+      <node ref="SW42" pin="1"/>
+      <node ref="SW43" pin="1"/>
+      <node ref="SW44" pin="1"/>
+      <node ref="SW45" pin="1"/>
+      <node ref="U2" pin="15"/>
+    </net>
+    <net code="101" name="Net-(D35-Pad2)">
+      <node ref="D35" pin="2"/>
+      <node ref="SW35" pin="2"/>
+    </net>
+    <net code="102" name="Net-(D32-Pad2)">
+      <node ref="SW32" pin="2"/>
+      <node ref="D32" pin="2"/>
+    </net>
+    <net code="103" name="Net-(D39-Pad2)">
+      <node ref="SW39" pin="2"/>
+      <node ref="D39" pin="2"/>
+    </net>
+    <net code="104" name="Net-(D45-Pad2)">
+      <node ref="SW44" pin="2"/>
+      <node ref="D45" pin="2"/>
+    </net>
+    <net code="105" name="Net-(D44-Pad2)">
+      <node ref="SW43" pin="2"/>
+      <node ref="D44" pin="2"/>
+    </net>
+    <net code="106" name="Net-(D43-Pad2)">
+      <node ref="D43" pin="2"/>
+      <node ref="SW42" pin="2"/>
+    </net>
+    <net code="107" name="Net-(D41-Pad2)">
+      <node ref="D41" pin="2"/>
+      <node ref="SW41" pin="2"/>
+    </net>
+    <net code="108" name="Net-(D40-Pad2)">
+      <node ref="D40" pin="2"/>
+      <node ref="SW40" pin="2"/>
+    </net>
+    <net code="109" name="Net-(D38-Pad2)">
+      <node ref="SW38" pin="2"/>
+      <node ref="D38" pin="2"/>
+    </net>
+    <net code="110" name="Net-(D37-Pad2)">
+      <node ref="D37" pin="2"/>
+      <node ref="SW37" pin="2"/>
+    </net>
+    <net code="111" name="Net-(D34-Pad2)">
+      <node ref="D34" pin="2"/>
+      <node ref="SW34" pin="2"/>
+    </net>
+    <net code="112" name="Net-(D33-Pad2)">
+      <node ref="D33" pin="2"/>
+      <node ref="SW33" pin="2"/>
+    </net>
+    <net code="113" name="Net-(D36-Pad2)">
+      <node ref="D36" pin="2"/>
+      <node ref="SW36" pin="2"/>
+    </net>
+  </nets>
+</export>
